@@ -110,6 +110,6 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Para
 3. Envie um pull request com uma descrição detalhada das mudanças.
 
 ## Desenvolvedores
-Lucas Bezerra dos Santos - 29469970
-Gabriel de Almeida Mangueira - 30194903
+Lucas Bezerra dos Santos - 29469970<br>
+Gabriel de Almeida Mangueira - 30194903<br>
 Victor de Almeida Mangueira - 30194989
